@@ -1,0 +1,35 @@
+{
+  "item.adventuretime.scarlet_sword": "Scarlet Sword",
+  "tooltip.adventuretime.scarlet_sword.obtainment": "How to obtain: Can be found in an abandoned mineshaft.",
+  "tooltip.adventuretime.scarlet_sword.details": "A golden warrior's sword, damaged in the past. Despite its material, it boasts high durability. More suitable for combat than ordinary swords.",
+  "ability.adventuretime.parry.name": "Parry",
+  "ability.adventuretime.scarlet_sword.parry.description": "The sword can parry blows, absorbing damage. Each hit costs 1 durability, a critical hit costs 3.",
+
+  "item.adventuretime.fourth_dimension_sword": "Fourth Dimension Sword",
+  "tooltip.adventuretime.fourth_dimension_sword.obtainment": "How to obtain: Currently unobtainable.",
+  "tooltip.adventuretime.fourth_dimension_sword.details": "Scarlet from the fourth dimension. The sword's construction is complex to perceive, but it's clearly not of this world. The sword is fragile but has its potentials...",
+  "ability.adventuretime.reality_shift.name": "Reality Shift",
+  "ability.adventuretime.fourth_dimension_sword.reality_shift.description": "The sword ignores 75% of enemy armor on hit.",
+  "ability.adventuretime.paradoxicalization.name": "Paradoxicalization",
+  "ability.adventuretime.fourth_dimension_sword.paradoxicalization.description": "Breaking the sword causes an extremely powerful explosion that reduces the durability of all items by 50% of their current durability for people within range. All creatures within a 40-block radius receive negative effects.",
+  "ability.adventuretime.fourth_dimension_sword.parry.description": "The sword can parry blows, absorbing damage. Each hit costs 2 durability, a critical hit costs 10.",
+
+  "item.adventuretime.root_tree_sword": "Root Tree Sword",
+  "tooltip.adventuretime.root_tree_sword.obtainment": "How to obtain: Can be crafted from valuable resources.",
+  "tooltip.adventuretime.root_tree_sword.details": "An extremely durable sword made from reliable materials. Ideal for combat.",
+  "ability.adventuretime.root_tree_sword.parry.description": "The sword can parry blows, absorbing damage. Each hit costs 1 durability, a critical hit costs 3. There's a 50% chance during parry that the attacker's weapon will go on cooldown for 2 seconds.",
+
+  "item.adventuretime.demonic_blood_sword": "Demonic Blood Sword",
+  "tooltip.adventuretime.demonic_blood_sword.obtainment": "How to obtain: Dungeon reward.",
+  "tooltip.adventuretime.demonic_blood_sword.details": "A sword of demonic blood, a family heirloom. Unusually strong against undead. Fireproof.",
+  "ability.adventuretime.demonic_blood_sword.parry.description": "The sword can parry blows, absorbing damage. Each hit costs 1 durability, a critical hit costs 3.",
+  "ability.adventuretime.demonic_aura.name": "Demonic Aura",
+  "ability.adventuretime.demonic_blood_sword.demonic_aura.description": "While the sword is in hand, any undead deal 50% less damage to the wielder.",
+  "ability.adventuretime.dark_sphere_punishment.name": "Dark Sphere's Punishment",
+  "ability.adventuretime.demonic_blood_sword.dark_sphere_punishment.description": "Damage to any undead is increased by 75%.",
+
+  "tooltip.adventuretime.shift_details": "Press [SHIFT] for details.",
+  "tooltip.adventuretime.abilities": "Abilities",
+
+  "itemgroup.adventuretime_swords": "Adventure Time Swords"
+}

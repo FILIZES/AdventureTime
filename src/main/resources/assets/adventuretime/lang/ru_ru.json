@@ -1,0 +1,35 @@
+{
+  "item.adventuretime.scarlet_sword": "Скарлет",
+  "tooltip.adventuretime.scarlet_sword.obtainment": "Как получить: Можно найти в заброшенной шахте.",
+  "tooltip.adventuretime.scarlet_sword.details": "Золотой меч Воина, повреждённый в прошлом. Не смотря на материал, он имеет большой показатель прочности. Наиболее подходящий для сражений, чем обычные мечи.",
+  "ability.adventuretime.parry.name": "Парирование",
+  "ability.adventuretime.scarlet_sword.parry.description": "Меч может парировать удары, поглощая урон. Каждый удар тратит единицу прочности, а критический удар - 3.",
+
+  "item.adventuretime.fourth_dimension_sword": "Меч четвёртого измерения",
+  "tooltip.adventuretime.fourth_dimension_sword.obtainment": "Как получить: Временно невозможно.",
+  "tooltip.adventuretime.fourth_dimension_sword.details": "Скарлет из четвёртого измерения. Конструкция меча сложна для восприятия, но он явно не из этого мира. Меч хрупок, но имеет свои потенциалы...",
+  "ability.adventuretime.reality_shift.name": "Сдвиг реальности",
+  "ability.adventuretime.fourth_dimension_sword.reality_shift.description": "Меч игнорирует 75% брони врага при ударе.",
+  "ability.adventuretime.paradoxicalization.name": "Парадоксализация",
+  "ability.adventuretime.fourth_dimension_sword.paradoxicalization.description": "Поломка меча вызывает крайне мощный взрыв, который уменьшает прочность на 50% всех предметов от их текущей прочности людей, которые попадают под радиус. В радиусе 40 блоков все существа получают негативные эффекты.",
+  "ability.adventuretime.fourth_dimension_sword.parry.description": "Меч может парировать удары, поглощая получаемый урон. Каждый удар тратит 2 единицы прочности, а критический удар - 10.",
+
+  "item.adventuretime.root_tree_sword": "Меч из корня дерева",
+  "tooltip.adventuretime.root_tree_sword.obtainment": "Как получить: Можно скрафтить из ценных ресурсов.",
+  "tooltip.adventuretime.root_tree_sword.details": "Крайне прочный меч, созданный из надёжных материалов. Идеален для сражений.",
+  "ability.adventuretime.root_tree_sword.parry.description": "Меч может парировать удары, поглощая получаемый урон. Каждый удар тратит единицу прочности, а критический удар - 3. Есть шанс 50%, что во время парирования, оружие нападавшего войдёт в кд на 2 секунды.",
+
+  "item.adventuretime.demonic_blood_sword": "Меч из Демонической крови",
+  "tooltip.adventuretime.demonic_blood_sword.obtainment": "Как получить: Награда подземелья.",
+  "tooltip.adventuretime.demonic_blood_sword.details": "Меч из демонической крови, который являлся семейной реликвией. Необычайно силён против нежити. Огнестойкий.",
+  "ability.adventuretime.demonic_blood_sword.parry.description": "Меч может парировать удары, поглощая получаемый урон. Каждый удар тратит единицу прочности, а критический удар - 3.",
+  "ability.adventuretime.demonic_aura.name": "Демоническая аура",
+  "ability.adventuretime.demonic_blood_sword.demonic_aura.description": "Пока меч в руках, любая нежить наносит на 50% урона меньше владельцу меча.",
+  "ability.adventuretime.dark_sphere_punishment.name": "Кара Темносферы",
+  "ability.adventuretime.demonic_blood_sword.dark_sphere_punishment.description": "Урон по любой нежити повышен на 75%.",
+
+  "tooltip.adventuretime.shift_details": "Нажмите [SHIFT] для подробностей.",
+  "tooltip.adventuretime.abilities": "Способности",
+
+  "itemgroup.adventuretime_swords": "Мечи Adventure Time"
+}

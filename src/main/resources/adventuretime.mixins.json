@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.filizes.adventuretime.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "accessor.MobEntityAccessor",
+    "server.DamageSourceMixin",
+    "server.ItemStackMixin",
+    "server.LivingEntityDamageMixin",
+    "server.LivingEntityStatusMixin",
+    "server.MobEntityMixin",
+    "server.PlayerEntityAttackDurabilityMixin",
+    "server.PlayerEntityAttackMixin",
+    "server.PlayerEntityAttackServerMixin",
+    "server.PlayerEntityMixin",
+    "server.ServerPlayerEntityMixin",
+    "server.ThrownPotionEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

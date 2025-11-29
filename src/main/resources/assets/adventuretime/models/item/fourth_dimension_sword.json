@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "adventuretime:item/fourth_dimension_sword"
+  }
+}
